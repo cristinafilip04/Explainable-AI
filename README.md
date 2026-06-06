@@ -1,4 +1,4 @@
-Explainable Final Assignment — Robustness of SHAP and Anchor Explanations in Heart Disease Prediction
+Explainable Final Assignment:Robustness of SHAP and Anchor Explanations in Heart Disease Prediction
 Course: Explainable AI (SOW-BKI266), Radboud University
 Author: Cristina-Maria Filip (s1111439)
 Overview
